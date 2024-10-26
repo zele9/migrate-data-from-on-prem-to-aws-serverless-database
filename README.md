@@ -102,7 +102,7 @@ The implementation of this serverless database solution on AWS provides Libaski 
 
 ## References
 
-- ![Architecture Diagram](Overall Architecture diagram pic.jpg)  
+- ![Alt text](Overall Architecture diagram pic.jpg)  
 - [API Gateway Endpoint for Data Retrieval](https://cgf4ne3ece.execute-api.us-east-1.amazonaws.com/dev/users/put_clientid)
 
 ## License
