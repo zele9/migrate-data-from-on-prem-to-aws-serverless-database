@@ -1,0 +1,283 @@
+[
+    {
+        "ClientID": "C011",
+        "ClientName": "Epsilon Industries",
+        "ContactEmail": "contact@epsilonindustries.com",
+        "PhoneNumber": "654-321-0987",
+        "Address": {
+            "Street": "258 Birch Rd",
+            "City": "Philadelphia",
+            "State": "PA",
+            "ZipCode": "19103"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E021",
+                "FirstName": "Henry",
+                "LastName": "King",
+                "Position": "IT Specialist",
+                "HireDate": "2022-02-15"
+            },
+            {
+                "EmployeeID": "E022",
+                "FirstName": "Charlotte",
+                "LastName": "Adams",
+                "Position": "HR Manager",
+                "HireDate": "2022-07-01"
+            }
+        ]
+    },
+    {
+        "ClientID": "C012",
+        "ClientName": "Zeta Solutions",
+        "ContactEmail": "info@zetasolutions.com",
+        "PhoneNumber": "987-654-3210",
+        "Address": {
+            "Street": "369 Oak Ave",
+            "City": "San Diego",
+            "State": "CA",
+            "ZipCode": "92101"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E023",
+                "FirstName": "Amelia",
+                "LastName": "Scott",
+                "Position": "Web Developer",
+                "HireDate": "2021-06-05"
+            },
+            {
+                "EmployeeID": "E024",
+                "FirstName": "Daniel",
+                "LastName": "Nelson",
+                "Position": "SEO Specialist",
+                "HireDate": "2021-08-15"
+            }
+        ]
+    },
+    {
+        "ClientID": "C013",
+        "ClientName": "Eta Services",
+        "ContactEmail": "contact@etaservices.com",
+        "PhoneNumber": "321-654-9870",
+        "Address": {
+            "Street": "741 Maple St",
+            "City": "Dallas",
+            "State": "TX",
+            "ZipCode": "75201"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E025",
+                "FirstName": "Jackson",
+                "LastName": "Miller",
+                "Position": "Financial Analyst",
+                "HireDate": "2022-04-10"
+            },
+            {
+                "EmployeeID": "E026",
+                "FirstName": "Eleanor",
+                "LastName": "Young",
+                "Position": "Administrative Assistant",
+                "HireDate": "2022-09-15"
+            }
+        ]
+    },
+    {
+        "ClientID": "C014",
+        "ClientName": "Theta Corp",
+        "ContactEmail": "info@thetacorp.com",
+        "PhoneNumber": "654-321-8765",
+        "Address": {
+            "Street": "852 Cedar Blvd",
+            "City": "Houston",
+            "State": "TX",
+            "ZipCode": "77001"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E027",
+                "FirstName": "Mason",
+                "LastName": "Walker",
+                "Position": "Network Engineer",
+                "HireDate": "2021-12-01"
+            },
+            {
+                "EmployeeID": "E028",
+                "FirstName": "Harper",
+                "LastName": "Harris",
+                "Position": "Technical Writer",
+                "HireDate": "2021-11-20"
+            }
+        ]
+    },
+    {
+        "ClientID": "C015",
+        "ClientName": "Iota Technologies",
+        "ContactEmail": "support@iotatech.com",
+        "PhoneNumber": "987-321-4560",
+        "Address": {
+            "Street": "963 Birch Rd",
+            "City": "Atlanta",
+            "State": "GA",
+            "ZipCode": "30301"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E029",
+                "FirstName": "Aiden",
+                "LastName": "Mitchell",
+                "Position": "Software Engineer",
+                "HireDate": "2022-03-15"
+            },
+            {
+                "EmployeeID": "E030",
+                "FirstName": "Sofia",
+                "LastName": "Perez",
+                "Position": "Graphic Designer",
+                "HireDate": "2022-07-22"
+            }
+        ]
+    },
+    {
+        "ClientID": "C016",
+        "ClientName": "Kappa Enterprises",
+        "ContactEmail": "info@kappaenterprises.com",
+        "PhoneNumber": "654-987-3210",
+        "Address": {
+            "Street": "135 Oak St",
+            "City": "Orlando",
+            "State": "FL",
+            "ZipCode": "32801"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E031",
+                "FirstName": "Zoe",
+                "LastName": "Parker",
+                "Position": "Operations Analyst",
+                "HireDate": "2022-01-30"
+            },
+            {
+                "EmployeeID": "E032",
+                "FirstName": "Ryan",
+                "LastName": "Lee",
+                "Position": "Customer Service Rep",
+                "HireDate": "2022-05-15"
+            }
+        ]
+    },
+    {
+        "ClientID": "C017",
+        "ClientName": "Lambda Solutions",
+        "ContactEmail": "support@lambdasolutions.com",
+        "PhoneNumber": "321-987-6540",
+        "Address": {
+            "Street": "369 Elm St",
+            "City": "San Jose",
+            "State": "CA",
+            "ZipCode": "95101"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E033",
+                "FirstName": "Elijah",
+                "LastName": "Roberts",
+                "Position": "Web Designer",
+                "HireDate": "2021-10-10"
+            },
+            {
+                "EmployeeID": "E034",
+                "FirstName": "Luna",
+                "LastName": "White",
+                "Position": "Content Strategist",
+                "HireDate": "2021-12-05"
+            }
+        ]
+    },
+    {
+        "ClientID": "C018",
+        "ClientName": "Mu Technologies",
+        "ContactEmail": "info@mutech.com",
+        "PhoneNumber": "543-210-4567",
+        "Address": {
+            "Street": "741 Oak St",
+            "City": "Miami",
+            "State": "FL",
+            "ZipCode": "33101"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E035",
+                "FirstName": "Madison",
+                "LastName": "Clark",
+                "Position": "Business Development",
+                "HireDate": "2021-02-15"
+            },
+            {
+                "EmployeeID": "E036",
+                "FirstName": "James",
+                "LastName": "Lewis",
+                "Position": "Customer Success",
+                "HireDate": "2021-09-22"
+            }
+        ]
+    },
+    {
+        "ClientID": "C019",
+        "ClientName": "Nu Enterprises",
+        "ContactEmail": "contact@nuenterprises.com",
+        "PhoneNumber": "654-321-4321",
+        "Address": {
+            "Street": "852 Elm Rd",
+            "City": "Washington",
+            "State": "DC",
+            "ZipCode": "20001"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E037",
+                "FirstName": "Avery",
+                "LastName": "Wilson",
+                "Position": "Technical Support",
+                "HireDate": "2022-07-10"
+            },
+            {
+                "EmployeeID": "E038",
+                "FirstName": "Evelyn",
+                "LastName": "Smith",
+                "Position": "Product Manager",
+                "HireDate": "2022-09-30"
+            }
+        ]
+    },
+    {
+        "ClientID": "C020",
+        "ClientName": "Xi Tech",
+        "ContactEmail": "info@xitech.com",
+        "PhoneNumber": "987-654-3210",
+        "Address": {
+            "Street": "963 Maple Blvd",
+            "City": "New York",
+            "State": "NY",
+            "ZipCode": "10001"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E039",
+                "FirstName": "Oliver",
+                "LastName": "Davis",
+                "Position": "IT Consultant",
+                "HireDate": "2021-11-10"
+            },
+            {
+                "EmployeeID": "E040",
+                "FirstName": "Ella",
+                "LastName": "Harris",
+                "Position": "Marketing Director",
+                "HireDate": "2021-12-15"
+            }
+        ]
+    }
+    
+]

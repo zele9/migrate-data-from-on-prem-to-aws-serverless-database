@@ -1,0 +1,282 @@
+[
+    {
+        "ClientID": "C021",
+        "ClientName": "Omicron Solutions",
+        "ContactEmail": "contact@omicronsolutions.com",
+        "PhoneNumber": "321-654-9870",
+        "Address": {
+            "Street": "852 Cedar St",
+            "City": "Boston",
+            "State": "MA",
+            "ZipCode": "02108"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E041",
+                "FirstName": "Mia",
+                "LastName": "Brown",
+                "Position": "Project Coordinator",
+                "HireDate": "2022-01-20"
+            },
+            {
+                "EmployeeID": "E042",
+                "FirstName": "Ethan",
+                "LastName": "Williams",
+                "Position": "QA Engineer",
+                "HireDate": "2022-03-15"
+            }
+        ]
+    },
+    {
+        "ClientID": "C022",
+        "ClientName": "Pi Enterprises",
+        "ContactEmail": "info@pienterprises.com",
+        "PhoneNumber": "543-210-9876",
+        "Address": {
+            "Street": "741 Birch Blvd",
+            "City": "Los Angeles",
+            "State": "CA",
+            "ZipCode": "90001"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E043",
+                "FirstName": "James",
+                "LastName": "Johnson",
+                "Position": "Product Designer",
+                "HireDate": "2021-08-05"
+            },
+            {
+                "EmployeeID": "E044",
+                "FirstName": "Sophia",
+                "LastName": "Miller",
+                "Position": "Marketing Analyst",
+                "HireDate": "2021-11-30"
+            }
+        ]
+    },
+    {
+        "ClientID": "C023",
+        "ClientName": "Rho Innovations",
+        "ContactEmail": "support@rhoinnovations.com",
+        "PhoneNumber": "654-987-1234",
+        "Address": {
+            "Street": "369 Cedar Rd",
+            "City": "San Francisco",
+            "State": "CA",
+            "ZipCode": "94103"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E045",
+                "FirstName": "William",
+                "LastName": "Walker",
+                "Position": "UI Designer",
+                "HireDate": "2021-12-10"
+            },
+            {
+                "EmployeeID": "E046",
+                "FirstName": "Olivia",
+                "LastName": "Morris",
+                "Position": "HR Coordinator",
+                "HireDate": "2022-03-01"
+            }
+        ]
+    },
+    {
+        "ClientID": "C024",
+        "ClientName": "Sigma Tech",
+        "ContactEmail": "contact@sigmatech.com",
+        "PhoneNumber": "987-123-4567",
+        "Address": {
+            "Street": "852 Maple Ave",
+            "City": "Seattle",
+            "State": "WA",
+            "ZipCode": "98101"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E047",
+                "FirstName": "Ella",
+                "LastName": "Jones",
+                "Position": "Systems Analyst",
+                "HireDate": "2022-04-15"
+            },
+            {
+                "EmployeeID": "E048",
+                "FirstName": "Liam",
+                "LastName": "Brown",
+                "Position": "Network Specialist",
+                "HireDate": "2022-06-30"
+            }
+        ]
+    },
+    {
+        "ClientID": "C025",
+        "ClientName": "Tau Solutions",
+        "ContactEmail": "info@tausolutions.com",
+        "PhoneNumber": "321-654-0987",
+        "Address": {
+            "Street": "963 Oak St",
+            "City": "Chicago",
+            "State": "IL",
+            "ZipCode": "60605"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E049",
+                "FirstName": "Sophie",
+                "LastName": "Garcia",
+                "Position": "Business Analyst",
+                "HireDate": "2022-05-05"
+            },
+            {
+                "EmployeeID": "E050",
+                "FirstName": "Jack",
+                "LastName": "Anderson",
+                "Position": "Technical Support",
+                "HireDate": "2022-08-15"
+            }
+        ]
+    },
+    {
+        "ClientID": "C026",
+        "ClientName": "Upsilon Innovations",
+        "ContactEmail": "support@upsiloninnovations.com",
+        "PhoneNumber": "654-321-1234",
+        "Address": {
+            "Street": "852 Birch St",
+            "City": "Dallas",
+            "State": "TX",
+            "ZipCode": "75201"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E051",
+                "FirstName": "Michael",
+                "LastName": "Moore",
+                "Position": "Software Developer",
+                "HireDate": "2022-02-20"
+            },
+            {
+                "EmployeeID": "E052",
+                "FirstName": "Grace",
+                "LastName": "Taylor",
+                "Position": "Content Creator",
+                "HireDate": "2022-06-01"
+            }
+        ]
+    },
+    {
+        "ClientID": "C027",
+        "ClientName": "Phi Solutions",
+        "ContactEmail": "info@phisolutions.com",
+        "PhoneNumber": "987-654-0987",
+        "Address": {
+            "Street": "741 Elm Blvd",
+            "City": "San Diego",
+            "State": "CA",
+            "ZipCode": "92101"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E053",
+                "FirstName": "Ethan",
+                "LastName": "Johnson",
+                "Position": "Web Developer",
+                "HireDate": "2022-01-15"
+            },
+            {
+                "EmployeeID": "E054",
+                "FirstName": "Ava",
+                "LastName": "Smith",
+                "Position": "Social Media Manager",
+                "HireDate": "2022-03-22"
+            }
+        ]
+    },
+    {
+        "ClientID": "C028",
+        "ClientName": "Chi Technologies",
+        "ContactEmail": "contact@chitechnologies.com",
+        "PhoneNumber": "543-210-1234",
+        "Address": {
+            "Street": "369 Oak Blvd",
+            "City": "San Jose",
+            "State": "CA",
+            "ZipCode": "95101"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E055",
+                "FirstName": "Isabella",
+                "LastName": "Brown",
+                "Position": "Operations Manager",
+                "HireDate": "2021-12-10"
+            },
+            {
+                "EmployeeID": "E056",
+                "FirstName": "Jacob",
+                "LastName": "Miller",
+                "Position": "HR Specialist",
+                "HireDate": "2022-02-25"
+            }
+        ]
+    },
+    {
+        "ClientID": "C029",
+        "ClientName": "Psi Enterprises",
+        "ContactEmail": "support@psienterprises.com",
+        "PhoneNumber": "654-987-6543",
+        "Address": {
+            "Street": "741 Oak Blvd",
+            "City": "Boston",
+            "State": "MA",
+            "ZipCode": "02108"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E057",
+                "FirstName": "Mason",
+                "LastName": "Smith",
+                "Position": "Data Analyst",
+                "HireDate": "2021-11-20"
+            },
+            {
+                "EmployeeID": "E058",
+                "FirstName": "Lily",
+                "LastName": "Jones",
+                "Position": "Product Manager",
+                "HireDate": "2022-03-30"
+            }
+        ]
+    },
+    {
+        "ClientID": "C030",
+        "ClientName": "Omega Corp",
+        "ContactEmail": "contact@omegacorp.com",
+        "PhoneNumber": "987-321-0987",
+        "Address": {
+            "Street": "963 Birch Ave",
+            "City": "New York",
+            "State": "NY",
+            "ZipCode": "10001"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E059",
+                "FirstName": "Mia",
+                "LastName": "Taylor",
+                "Position": "Lead Developer",
+                "HireDate": "2022-01-10"
+            },
+            {
+                "EmployeeID": "E060",
+                "FirstName": "Noah",
+                "LastName": "White",
+                "Position": "Business Analyst",
+                "HireDate": "2022-04-15"
+            }
+        ]
+    }
+]

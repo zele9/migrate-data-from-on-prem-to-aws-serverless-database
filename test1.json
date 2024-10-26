@@ -1,0 +1,282 @@
+[
+    {
+        "ClientID": "C001",
+        "ClientName": "Acme Corp",
+        "ContactEmail": "contact@acmecorp.com",
+        "PhoneNumber": "123-456-7890",
+        "Address": {
+            "Street": "123 Elm St",
+            "City": "Springfield",
+            "State": "IL",
+            "ZipCode": "62701"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E001",
+                "FirstName": "John",
+                "LastName": "Doe",
+                "Position": "Manager",
+                "HireDate": "2022-01-15"
+            },
+            {
+                "EmployeeID": "E002",
+                "FirstName": "Jane",
+                "LastName": "Smith",
+                "Position": "Developer",
+                "HireDate": "2022-03-10"
+            }
+        ]
+    },
+    {
+        "ClientID": "C002",
+        "ClientName": "Global Solutions Inc",
+        "ContactEmail": "info@globalsolutions.com",
+        "PhoneNumber": "987-654-3210",
+        "Address": {
+            "Street": "456 Oak Ave",
+            "City": "Metropolis",
+            "State": "NY",
+            "ZipCode": "10001"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E003",
+                "FirstName": "Alice",
+                "LastName": "Johnson",
+                "Position": "HR Specialist",
+                "HireDate": "2021-11-20"
+            },
+            {
+                "EmployeeID": "E004",
+                "FirstName": "Bob",
+                "LastName": "Brown",
+                "Position": "Analyst",
+                "HireDate": "2021-06-25"
+            }
+        ]
+    },
+    {
+        "ClientID": "C003",
+        "ClientName": "Tech Innovations LLC",
+        "ContactEmail": "support@techinnovations.com",
+        "PhoneNumber": "321-654-9870",
+        "Address": {
+            "Street": "789 Pine Rd",
+            "City": "Silicon Valley",
+            "State": "CA",
+            "ZipCode": "94016"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E005",
+                "FirstName": "Mark",
+                "LastName": "Taylor",
+                "Position": "CTO",
+                "HireDate": "2020-09-15"
+            },
+            {
+                "EmployeeID": "E006",
+                "FirstName": "Lisa",
+                "LastName": "White",
+                "Position": "Product Manager",
+                "HireDate": "2020-11-30"
+            }
+        ]
+    },
+    {
+        "ClientID": "C004",
+        "ClientName": "Innovate Solutions",
+        "ContactEmail": "contact@innovatesolutions.com",
+        "PhoneNumber": "654-321-0987",
+        "Address": {
+            "Street": "135 Maple St",
+            "City": "Boston",
+            "State": "MA",
+            "ZipCode": "02108"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E007",
+                "FirstName": "Rachel",
+                "LastName": "Green",
+                "Position": "Consultant",
+                "HireDate": "2022-02-20"
+            },
+            {
+                "EmployeeID": "E008",
+                "FirstName": "Ross",
+                "LastName": "Geller",
+                "Position": "Data Scientist",
+                "HireDate": "2022-05-10"
+            }
+        ]
+    },
+    {
+        "ClientID": "C005",
+        "ClientName": "Quantum Enterprises",
+        "ContactEmail": "info@quantumenterprises.com",
+        "PhoneNumber": "456-789-0123",
+        "Address": {
+            "Street": "246 Birch Ave",
+            "City": "Austin",
+            "State": "TX",
+            "ZipCode": "73301"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E009",
+                "FirstName": "James",
+                "LastName": "Brown",
+                "Position": "Lead Engineer",
+                "HireDate": "2021-03-22"
+            },
+            {
+                "EmployeeID": "E010",
+                "FirstName": "Emily",
+                "LastName": "Davis",
+                "Position": "Sales Manager",
+                "HireDate": "2021-08-15"
+            }
+        ]
+    },
+    {
+        "ClientID": "C006",
+        "ClientName": "Creative Solutions",
+        "ContactEmail": "contact@creativesolutions.com",
+        "PhoneNumber": "789-123-4567",
+        "Address": {
+            "Street": "369 Cedar St",
+            "City": "Seattle",
+            "State": "WA",
+            "ZipCode": "98101"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E011",
+                "FirstName": "Sophia",
+                "LastName": "Wilson",
+                "Position": "Creative Director",
+                "HireDate": "2021-07-10"
+            },
+            {
+                "EmployeeID": "E012",
+                "FirstName": "Oliver",
+                "LastName": "Martinez",
+                "Position": "UX Designer",
+                "HireDate": "2021-12-01"
+            }
+        ]
+    },
+    {
+        "ClientID": "C007",
+        "ClientName": "Alpha Tech",
+        "ContactEmail": "support@alphatech.com",
+        "PhoneNumber": "654-987-3210",
+        "Address": {
+            "Street": "741 Oak Blvd",
+            "City": "Denver",
+            "State": "CO",
+            "ZipCode": "80202"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E013",
+                "FirstName": "Liam",
+                "LastName": "Moore",
+                "Position": "Backend Developer",
+                "HireDate": "2022-04-05"
+            },
+            {
+                "EmployeeID": "E014",
+                "FirstName": "Isabella",
+                "LastName": "Taylor",
+                "Position": "Front-end Developer",
+                "HireDate": "2022-06-20"
+            }
+        ]
+    },
+    {
+        "ClientID": "C008",
+        "ClientName": "Beta Group",
+        "ContactEmail": "contact@betagroup.com",
+        "PhoneNumber": "321-789-4560",
+        "Address": {
+            "Street": "852 Pine St",
+            "City": "San Francisco",
+            "State": "CA",
+            "ZipCode": "94105"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E015",
+                "FirstName": "Noah",
+                "LastName": "Garcia",
+                "Position": "System Administrator",
+                "HireDate": "2020-10-10"
+            },
+            {
+                "EmployeeID": "E016",
+                "FirstName": "Mia",
+                "LastName": "Wilson",
+                "Position": "Marketing Specialist",
+                "HireDate": "2020-12-15"
+            }
+        ]
+    },
+    {
+        "ClientID": "C009",
+        "ClientName": "Gamma Technologies",
+        "ContactEmail": "info@gammatech.com",
+        "PhoneNumber": "987-321-6540",
+        "Address": {
+            "Street": "963 Maple Ave",
+            "City": "Chicago",
+            "State": "IL",
+            "ZipCode": "60616"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E017",
+                "FirstName": "Ethan",
+                "LastName": "Harris",
+                "Position": "Product Owner",
+                "HireDate": "2021-09-05"
+            },
+            {
+                "EmployeeID": "E018",
+                "FirstName": "Ava",
+                "LastName": "Clark",
+                "Position": "Business Analyst",
+                "HireDate": "2021-11-30"
+            }
+        ]
+    },
+    {
+        "ClientID": "C010",
+        "ClientName": "Delta Services",
+        "ContactEmail": "support@deltaservices.com",
+        "PhoneNumber": "543-210-9876",
+        "Address": {
+            "Street": "147 Cedar Blvd",
+            "City": "Los Angeles",
+            "State": "CA",
+            "ZipCode": "90001"
+        },
+        "Employees": [
+            {
+                "EmployeeID": "E019",
+                "FirstName": "Lily",
+                "LastName": "Martinez",
+                "Position": "Sales Executive",
+                "HireDate": "2020-05-20"
+            },
+            {
+                "EmployeeID": "E020",
+                "FirstName": "Lucas",
+                "LastName": "Lee",
+                "Position": "Operations Manager",
+                "HireDate": "2020-08-25"
+            }
+        ]
+    }
+]
